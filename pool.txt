@@ -7,8 +7,9 @@ flags --cl-global-work 8192 --farm-recheck 200
 globalfan 85
 
 #Esteban's overclock
-globalcore 1250
-globalmem 1750
+#globalcore 1250
+globalmem 1950
+globalpowertune 7
 
 # ethOS Pool: ethosdistro.com/pool
 #
