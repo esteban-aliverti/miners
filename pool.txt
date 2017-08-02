@@ -8,8 +8,8 @@ globalfan 85
 
 #Esteban's overclock
 #globalcore 1250
-globalmem 1900
-globalpowertune 8
+globalmem 1905
+globalpowertune 7
 
 # ethOS Pool: ethosdistro.com/pool
 #
