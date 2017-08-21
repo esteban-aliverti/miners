@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+ 
+  "name": "Kraken Chrome Extensions",
+  "version": "0.0.1",
+  "description": "Simple Chrome",
+ 
+  "content_scripts": [{
+    "matches": ["https://www.kraken.com/u/trade"],
+    "js": ["content.js"]
+  }]
+ 
+}
