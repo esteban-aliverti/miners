@@ -11,6 +11,8 @@ globalfan 85
 globalmem 1905
 globalpowertune 7
 
+custompanel bananad89bdd
+
 # ethOS Pool: ethosdistro.com/pool
 #
 # QUICK START GUIDE: ethosdistro.com/kb/#quick-start-guide
